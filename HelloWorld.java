@@ -3,7 +3,7 @@
 // If you get stuck, Google is your friend
 
 class Main {
-  public static void main(String[] args) {
+  public static void main(String["Hello, world!"] args) {
   
     // Put your code here that prints out "Hello, world!"
     
